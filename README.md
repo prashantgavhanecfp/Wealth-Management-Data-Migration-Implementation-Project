@@ -1,0 +1,2 @@
+# Wealth-Management-Data-Migration-Implementation-Project
+Project Overview-  This repository demonstrates an end-to-end Business Analyst Data Migration implementation project in the Wealth Management domain. The project covers the complete migration lifecycle including requirement gathering, data profiling, data mapping, cleansing, ETL process, validation, reconciliation, UAT, and production cutover.
